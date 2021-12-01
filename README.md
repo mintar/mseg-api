@@ -50,11 +50,11 @@ Make sure that you can run `import mseg` in python, and you are good to go!
 
 ### Download MSeg
 
-* Navigate to [download_scripts/README.md](https://github.com/mseg-dataset/mseg-api-staging/blob/master/download_scripts/README.md) for instructions.
+* Navigate to [download_scripts/README.md](https://github.com/mseg-dataset/mseg-api/blob/master/download_scripts/README.md) for instructions.
 
 ### The MSeg Taxonomy
 
-We provide comprehensive class definitions and examples [here](https://drive.google.com/file/d/1zBGSokcaKjEZU95J-hRnyim6y8zDVafs/view?usp=sharing). We provide [here](https://github.com/mseg-dataset/mseg-api-staging/blob/master/mseg/class_remapping_files/MSeg_master.tsv) a master spreadsheet mapping all training datasets to the MSeg Taxonomy, and the MSeg Taxonomy to test datasets. Please consult [taxonomy_FAQ.md](https://github.com/mseg-dataset/mseg-api-staging/blob/master/download_scripts/taxonomy_FAQ.md) to learn what each of the dataset taxonomy names means.
+We provide comprehensive class definitions and examples [here](https://drive.google.com/file/d/1zBGSokcaKjEZU95J-hRnyim6y8zDVafs/view?usp=sharing). We provide [here](https://github.com/mseg-dataset/mseg-api/blob/master/mseg/class_remapping_files/MSeg_master.tsv) a master spreadsheet mapping all training datasets to the MSeg Taxonomy, and the MSeg Taxonomy to test datasets. Please consult [taxonomy_FAQ.md](https://github.com/mseg-dataset/mseg-api/blob/master/download_scripts/taxonomy_FAQ.md) to learn what each of the dataset taxonomy names means.
 
 ## Citing MSeg
 

@@ -203,7 +203,7 @@ source ./remove_credentials.sh
 
 ## FAQ
 
-Now, please consult [taxonomy_FAQ.md](https://github.com/mseg-dataset/mseg-api-staging/blob/master/download_scripts/taxonomy_FAQ.md) to learn what each of these dataset names means.
+Now, please consult [taxonomy_FAQ.md](https://github.com/mseg-dataset/mseg-api/blob/master/download_scripts/taxonomy_FAQ.md) to learn what each of these dataset names means.
 
 
 
